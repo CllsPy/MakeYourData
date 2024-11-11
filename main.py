@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 with st.sidebar:
-	st.title("Create your data"
+	st.title("Create your data")
 	
 # Lista para armazenar as coordenadas e cores
 if 'points' not in st.session_state:
