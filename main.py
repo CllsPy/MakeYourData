@@ -6,6 +6,12 @@ import matplotlib.pyplot as plt
 
 with st.sidebar:
 	st.markdown("## Create your data")
+	st.markdown(""" 
+ 		A Python app that generates synthetic data by creating points on the screen with a click, 
+   		allowing interactive data generation for analysis and testing.
+
+	"""	
+	)
 	st.markdown("---")
 	st.markdown("Creado por [CLL](https://github.com/CllsPy)")
 	
