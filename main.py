@@ -3,6 +3,10 @@ import pandas as pd
 from streamlit_drawable_canvas import st_canvas
 import matplotlib.pyplot as plt
 
+
+with st.sidebar:
+	st.title("Create your data"
+	
 # Lista para armazenar as coordenadas e cores
 if 'points' not in st.session_state:
 	st.session_state['points'] = []
