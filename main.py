@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 with st.sidebar:
 	st.markdown("## Create your data")
 	st.markdown("---")
-	st.markdown("Creado por [CLL]()")
+	st.markdown("Creado por [CLL](https://github.com/CllsPy)")
 	
 # Lista para armazenar as coordenadas e cores
 if 'points' not in st.session_state:
